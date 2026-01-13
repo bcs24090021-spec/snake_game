@@ -13,3 +13,15 @@ A minimal console-based Snake game implemented in Python using curses.
 
 ## Notes
 - The game centers in the terminal; adjust your window size if needed.
+
+
+
+
+
+github guidelines
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/bcs24090021-spec/snake_game.git
+git push -u origin main
